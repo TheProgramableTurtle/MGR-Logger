@@ -1,10 +1,10 @@
 #                     ===MGR Logger a0.1===
 #                        ===main.py===
-#  ======Copyright 2020 Pr0x1mas, TheProgramableTurtle======
+#          ======Copyright TheProgramableTurtle======
 
 from discord.ext import commands as cmd
 # ---Setup connection to bot---
-TOKEN = "Njk0NDkzMTAxMjQ2NTEzMTYy.XoMbhQ.ZLfCH7I3VGApsC99f9fco_Nek9o"
+TOKEN = ""
 
 
 bot = cmd.Bot(command_prefix='$')
